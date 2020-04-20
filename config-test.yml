@@ -1,3 +1,2 @@
-spring:
-  application: 
-    name: liuchen
+sever:
+  port: 1234
