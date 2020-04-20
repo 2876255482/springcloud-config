@@ -1,1 +1,3 @@
-hahaha
+spring:
+  application: 
+    name: liuchen
